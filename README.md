@@ -1,11 +1,11 @@
 # Apache
 
-## MODIFICAMOS:
+## Modificar:
 ~~~
 sudo nano /etc/network/interfaces
 ~~~
 
-## MODIFICAMOS:
+## Modificar:
 ~~~
 source /etc/network/interfaces.d/*
 
@@ -37,7 +37,7 @@ sudo apt-get install bind9
 ~~~
 ### 2b. Configurar Servidor Dns
 
-## CONFIGURAMOS
+## Configurar
 ~~~
 sudo nano /etc/bind/named.conf.local
 ~~~
@@ -79,7 +79,7 @@ zone "1.168.192.in-addr.arpa"{
 };
 
 ~~~
-### CONFIGURAMOS:
+### Configurar:
 ~~~
 sudo nano /etc/bind/rd.gato.com
 ~~~
@@ -146,7 +146,7 @@ servidor01.escherichiacoli.es. IN A 192.168.1.210
 WWW IN CNAME servidor01.escherichiacoli.es.
 ~~~
 
-### CONFIGURAMOS:
+### Configurar:
 ~~~
 sudo nano /etc/bind/rd.chip555.org
 ~~~
@@ -167,7 +167,7 @@ servidor01.chip555.org. IN A 192.168.1.210
 WWW IN CNAME servidor01.chip555.org.
 ~~~
 
-### CONFIGURAMOS
+### Configuramos
 ~~~
 sudo nano /etc/bind/ri.192.168.1
 ~~~
