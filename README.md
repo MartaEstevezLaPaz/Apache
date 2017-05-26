@@ -264,7 +264,7 @@ sudo nano /var/www/chip555.org/html/index.html
                 <title>Chip555</title>
         </head>
         <body>
-                <img src="https://www.google.es/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F21%2FSignetics_NE555N.JPG%2F245px-Signetics_NE555N.JPG&imgrefurl=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FCircuito_integrado_555&docid=5jxo_Gp7yM4tdM&tbnid=5wjvcVcDcuEsmM%3A&vet=10ahUKEwiygInusI3UAhXMORoKHTovDucQMwgiKAAwAA..i&w=245&h=184&bih=602&biw=1242&q=chip%20555&ved=0ahUKEwiygInusI3UAhXMORoKHTovDucQMwgiKAAwAA&iact=mrc&uact=8"/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Signetics_NE555N.JPG/245px-Signetics_NE555N.JPG"/>
         </body>
 </html>
 
